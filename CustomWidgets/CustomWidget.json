@@ -1,5 +1,5 @@
 {
-	"name": "cusstom_button",
+	"name": "custom_button",
 	"description": "basic_button widget",
 	"newInstancePrefix": "mycustomwidget",
 	"eula": "",
@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "custom-button",
-			"url": "https://github.com/flo338/SAC_CustomWidgets/blob/main/Webcomponent.js",
+			"url": "https://flo338.github.io/CustomWidgets/Webcomponent.js",
 			"integrity": ""	,
 			"ignoreIntegrity": true
 			
